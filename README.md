@@ -1,5 +1,6 @@
 # JetBrains keys get
-#UPD: ITS NOT WORKING
+# UPD: ITS NOT WORKING, REPO WITH PIRATES KEYS IS PRIVATE
+
 Usage:
 ```bash
 git clone https://github.com/relyadev/jetbrains-key-get
