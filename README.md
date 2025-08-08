@@ -1,4 +1,5 @@
 # JetBrains keys get
+#UPD: ITS NOT WORKING
 Usage:
 ```bash
 git clone https://github.com/relyadev/jetbrains-key-get
